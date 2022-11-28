@@ -1,0 +1,7 @@
+1. there is random 5 letter word and player have to figure out what word is about
+   player have 6 tries to find correct word
+   game will show to player that some letter is in word and that some letter is in correct position, with colors
+   fetch list of 5-letter words from address "https://api.frontendexpert.io/api/fe/wordle-words"
+2. provide UI for board and create board
+3. provide option to enter letters through keyboard
+4. add colors to show what is correct/incorrect
